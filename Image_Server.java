@@ -41,8 +41,6 @@ public class Image_Server {
 			} catch (InterruptedException e1) {
 			}
 			i++;
-			
-			
 		}
 	}
 }
